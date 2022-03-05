@@ -1,8 +1,7 @@
 # Download Youtube Content Using Python
-<li>In this project you will download YouTube contents like audio , video and video-playlist as you want . Your work is copy YouTube link and paste it in link section and run the code.</li>
+<li>In this project you will download YouTube contents like Audio, Video and Video-Playlist as you want . Your work is only copy YouTube link and paste it in link section and run the code.</li>
 
-# 1 . Required Module :
-<li> PyTube Module :
-  Python pytube module consits of various methods and classed by using which we can download YouTube veideos or fetch the video metadeta.</li>
- <li> The PyTube module is not a Built-in module , so we need to install it separately, using the python-pip command.</li>
+# Appendix
+<p dir="auto">Visit Following Link For More Info :-
+<a href="https://www.dropbox.com/s/fklw5llugnpl7y5/python%20project.pdf?dl=0" rel="nofollow">https://www.dropbox.com/s/fklw5llugnpl7y5/python%20project.pdf?dl=0</a></p>
 
